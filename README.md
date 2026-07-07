@@ -1,8 +1,8 @@
 # StratiGraphics.jl
 
-*A tool for creating 3D stratigraphy from 2D geostatistical processes.*
+**THIS PACKAGE IS DEPRECATED**
 
-[![][build-img]][build-url] [![][codecov-img]][codecov-url]
+*A tool for creating 3D stratigraphy from 2D geostatistical processes.*
 
 ![StratiGraphics Animation](docs/stratigraphics.gif)
 
